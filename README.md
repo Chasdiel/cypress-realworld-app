@@ -26,6 +26,7 @@
   </a>
 </p>
 
+
 <p align="center">
 A payment application to demonstrate <strong>real-world</strong> usage of <a href="https://cypress.io">Cypress</a> testing methods, patterns, and workflows.
 </p>
@@ -250,11 +251,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/davidkpiano"><img src="https://avatars2.githubusercontent.com/u/1093738?v=4" width="100px;" alt=""/><br /><sub><b>David Khourshid</b></sub></a></td>
   </tr>
 </table>
-
-
-
-
-
 
 
 
